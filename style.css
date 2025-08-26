@@ -8,7 +8,7 @@ body {
 h3 {
     text-align: center;
     font-family: Verdana, sans-serif;
-    color: #0a2d82; /* Yamaha Blue */
+    color: #0a2d82;
     margin-bottom: 20px;
 }
 
@@ -18,11 +18,11 @@ h3 {
     border-collapse: collapse;
     font-size: 16px;
     box-shadow: 0 4px 8px rgba(0,0,0,0.15);
-    border: 2px solid #0a2d82; /* Yamaha Blue border */
+    border: 2px solid #0a2d82; 
 }
 
 .custom-table th {
-    background-color: #0a2d82; /* Yamaha Blue */
+    background-color: #0a2d82;
     color: #ffffff;
     text-align: left;
     padding: 12px;
@@ -34,7 +34,7 @@ h3 {
 }
 
 .custom-table tr:nth-child(even) {
-    background-color: #f0f4ff; /* Light Yamaha Blue */
+    background-color: #f0f4ff;
 }
 
 .custom-table tr:nth-child(odd) {
@@ -42,7 +42,7 @@ h3 {
 }
 
 .custom-table tr:hover {
-    background-color: #d9e4ff; /* Softer hover blue */
+    background-color: #d9e4ff;
     transition: 0.3s;
 }
 
@@ -51,3 +51,4 @@ h3 {
     color: #b22222; 
     font-weight: bold;
 }
+
